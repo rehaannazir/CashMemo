@@ -1,2 +1,2 @@
 # CashMemo
-A sleek and modular Cash Memo application crafted using Object-Oriented Programming principles. From adding items and computing totals to generating clean, printable receipts — this project combines clean code architecture with real-world billing functionality. Perfect for small businesses or students learning OOP in action.
+A clean and scalable Cash Memo system built with C++ using Object-Oriented Programming, structured across multiple source files. Powered by modern CMakeLists and CMakePresets.json for cross-platform compatibility and streamlined builds. Ideal for learning modular design, build automation, and real-world billing logic in C++.
